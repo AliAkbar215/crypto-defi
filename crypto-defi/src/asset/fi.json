@@ -1,0 +1,152 @@
+{
+  "translation": {
+    "wallet": {
+      "WalletSTATISTICS": "Mga Statistics ng Wallet",
+      "connect": "Kumonekta sa iyong metamask Pagkatapos ng koneksyon makakakuha ka ng pagkakataon na mag-deposito (i-reload ang pahinang ito).",
+      "yourCurent": "Ang iyong Kasalukuyang Pang-araw-araw na kita:",
+      "basicPr": "Pangunahing-kita",
+      "Availaiblewith": "Availaible Withdrawn Balance",
+      "RequestWithdrawn": "Humiling na Bawiin",
+      "WITHDRAW": "MABAWASAN",
+      "TotalInvested": "Kabuuang Namuhunan:",
+      "NumberofDeposit": "Bilang ng Deposit",
+      "TotalEarned": "Kabuuang Kumita",
+      "TotalWIthdrawn": "Kabuuang WIthdrawn",
+      "DirectReferral": "Direktang Sanggunian",
+      "Teammembers": "Mga Miyembro ng Koponan",
+      "ReferralRewards": "Mga Gantimpala sa Referral:"
+    },
+    "level": {
+      "unilevelbouns": "UniLevel Bonus:",
+      "0": "Antas1:",
+      "2": "Antas2:",
+      "3": "Antas3:",
+      "4": "Antas4:",
+      "5": "Antas5:",
+      "6": "Antas6:",
+      "7": "Antas7:",
+      "8": "Antas8:",
+      "9": "Antas9:",
+      "10": "Antas10:",
+      "11": "Antas11:",
+      "12": "Antas12:",
+      "13": "Antas13:",
+      "14": "Antas14:",
+      "15": "Antas15:"
+    },
+    "header": {
+      "edrmint": "CD Mint",
+      "edrstaking": "CD Staking",
+      "edrsaving": "Pag-save ng CD",
+      "edrfarm": "CD Farm",
+      "edrgovernance": "Pamamahala sa CD",
+      "edrTokeninfo": "Impormasyon sa CD Token"
+    },
+    "designation": {
+      "name": "Ang iyong Pagtatalaga",
+      "designation": "Kalahok"
+    },
+    "Referrer": {
+      "reffer": "Referrer",
+      "referralbonus": "referral na bonus"
+    },
+    "dailyprofilt": {
+      "dailyprofit": "Pang-araw-araw na Kita",
+      "dailyIncome": "Pang-araw-araw na Kita"
+    },
+    "copy": {
+      "copylink": "Link ng Imbitasyon"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "Mga Istatistika ng Organisasyon"
+    },
+    "statistics": {
+      "statics": "Mga Statistics ng Wallet",
+      "Statistics": "Mga Istatistika",
+      "name": "CD",
+      "statistics": "istatistika",
+      "balance": "Balanse",
+      "balace": "iyong balanse",
+      "mintAmount": "Halaga ng mint",
+      "totalNumberofPartners": "Kabuuang Bilang ng mga Kasosyo",
+      "TotalCommunityofPartners": "Kabuuang Komunidad ng Mga Kasosyo",
+      "Systempartnershipbouns": "Mga Bouns ng Pakikipagtulungan sa System",
+      "Deposit Time": "Deposong Oras",
+      "DailyPoolTimeCountDown": "Pang-araw-araw na Oras ng Pool Bumibilang",
+      "RANK1": "RANK 1",
+      "RANK2": "RANK 2",
+      "RANK3": "RANK 3",
+      "RANK4": "RANK 4",
+      "RANK5": "RANK 5",
+      "butonmint": "Mint"
+    },
+    "copy": {
+      "copylink": "Link ng Imbitasyon",
+      "copys": "kopya"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "Mga Istatistika ng Organisasyon",
+      "Personalinv": "Personal na Inanyayahang Kasosyo"
+    },
+    "homepage": {
+      "logo": "crypto-defi DeFi",
+      "ABOUTEDR": "TUNGKOL kay CD",
+      "EDRPROJECTS": "Mga PROYEKTO ng CD",
+      "CDEFIGOALS": " CD DEFI",
+      "CONTACT": "Makipag-ugnay",
+      "Dashboard": "MAG Dashboard ",
+      "welcome": "Maligayang Pagdating sa CD DECENTRALIZED FINANCE APP",
+      "crypto-defiMulti-Chain": "crypto-defiMulti-Chain Desentralisadong Application sa Pinansyal",
+      "p1": "Ang crypto-defi ('CDEFI') ay isang algorithm-based na money market system na idinisenyo upang magdala ng isang kumpletong desentralisadong pagpapautang na batay sa pananalapi at credit system sa Multi Chain System. Ang pagkakaiba-iba ng CDEFI mula sa iba pang mga protokol ng market ng pera ay ang kakayahang gamitin ang collateral na ibinibigay sa merkado hindi lamang upang mangutang ng iba pang mga assets ngunit din sa mint synthetic stable na mga barya na may sobrang posisyon na protektado. Ang mga synthetic stable coin na ito ay hindi nai-back ng isang basket ng fiat currency ngunit ng isang basket ng mga cryptocurrency.",
+      "p2": "Binibigyang-daan ng CDEFI ang mga gumagamit na magamit ang kanilang mga token sa pamamagitan ng pagbibigay ng collateral sa network na maaaring hiram sa pamamagitan ng pag-pledging ng labis na collateralized na mga cryptocurrency. Lumilikha ito ng isang ligtas na kapaligiran sa pagpapautang kung saan ang nagpapahiram ay tumatanggap ng isang pinagsamang rate ng interes taun-taon (APY) na binayaran bawat bloke, habang ang nanghihiram ay nagbabayad ng interes sa hiniram na cryptocurrency. Ang mga rate ng interes na ito ay itinakda ng protocol sa isang ani ng curve, kung saan awtomatiko ang mga rate batay sa pangangailangan ng tukoy na merkado, tulad ng Bitcoin.",
+      "getstarted": "MAGSIMULA",
+      "abstract": "Abstract: CDToken ('CDEFI')",
+      "p3": "Multi-chain Desentralisadong Aplikasyon sa Pananalapi",
+      "p4": "Ang CDToken ('CDEFI') ay isang algorithm-based na money market system na dinisenyo upang magdala ng isang kumpletong desentralisadong pagpapautang na batay sa pananalapi at credit system sa Multi Chain System.",
+      "p5": "Binibigyang-daan ng CDEFI ang mga gumagamit na magamit ang kanilang mga token sa pamamagitan ng pagbibigay ng collateral sa network na maaaring hiram sa pamamagitan ng pag-pledging ng labis na collateralized na mga cryptocurrency.",
+      "multichaindapp": "Multi-Chain Dapp",
+      "p6": "Unang Oras sa Kasaysayan ng Negosyo sa Network",
+      "prog1": "Binance Smart Chain Program",
+      "span55%": "55%",
+      "prog2": "Tron Blockchain",
+      "span23%": "23%",
+      "prog2": "Blockchain ng Ethereum",
+      "span23%": "22%",
+      "edrmint": "CD MINT",
+      "edrmintp1": "Ang CDMint ay isang programa ng smart chain ng Binance at digital assets ng binance network.",
+      "network": "NETWORK STAKE",
+      "networkp1": "Ang staking ng Crypto ay naging isang pangkaraniwang paraan upang kumita ng isang return on capital.",
+      "liquidy": "CD LIQUIDITY FARM",
+      "liquidyp1": "Ang BNB, BTT, JST, WIN, USDT, BUSD ay inaasahang susuportahan para sa Pagsasaka.",
+      "governance": "Pamahalaang CD",
+      "governancep1": "Ang mga kontrata ng CD DeFi Protocol at lahat ng mga pagbabago ay dapat gawin sa pamamagitan ng pamamahala.",
+      "dividends": "Mga Dividend ng CD",
+      "previous": "Mga nakaraang kumpanya at ang aking mga gawain",
+      "march": "2021 Marso",
+      "marp": "Ang CD ay maglulunsad ng mga produkto upang umakma sa lahat ng mga pangangailangan sa loob ng digital market na lumilikha ng isang CDEFI Independent Ecosystem.",
+      "may": "2021 Mayo",
+      "mayp": "Magagamit lamang ang Staking para sa CD na inilalagay sa downside protection. Ang CD ay maaaring iurong araw-araw ngunit kapag naatras, maaari itong mai-istake muli",
+      "edinargovernance": "Pamamahala sa CD",
+      "goverp1": "Upang demokratisahin ang pagpapaunlad ng CDEFI, pamamahala at seguridad ng node gamit ang staking.",
+      "june": "2021 Hunyo",
+      "edrlprewards": "Mga Gantimpala sa CD LP",
+      "edrp1": "Inaasahan na sa pagtaas ng pagiging kumplikado at pagkalat ng paggamit ng token ng CDEFI, lalago ang halaga nito.",
+      "buildapplication": "Bumuo ng mga application na nagbibigay kapangyarihan sa mga nagpapahiram, nanghihiram at mangangalakal na may pinaka-nababaluktot na desentralisadong pananalapi na proteksyon sa mga multi chain blockchain",
+      "financeapplication": "Multi-chain Desentralisadong Aplikasyon sa Pananalapi",
+      "hellow": "Bumati ka",
+      "hellowp1": "Kung mayroon kang mga plano upang paunlarin ang pamayanan ng CD, mangyaring ibahagi ang mga detalye.",
+      "yourName": "ang pangalan mo",
+      "youemail": "ang email mo",
+      "message": "Isulat ang iyong Mensahe",
+      "contactwithUs": "Kumonekta sa amin",
+      "Sharedetails": "Ibahagi ang mga detalye",
+      "contacttelegram": "Makipag-ugnay sa Telegram",
+      "CDEFIofficial": "@CDEFIofficial",
+      "emil": "hello@CDEFI.io",
+      "EDinar": "crypto-defi",
+      "MultiChain": "Multi-Chain",
+      "crypto-defiMulti-Chain": "Desentralisadong Application sa Pananalapi",
+      "junep": "Sa pamamagitan ng pagbuo at pag-istraktura ng aming mga produkto, palalawakin namin ang paggamit ng token ng CDEFI, na makatiyak ng pagtaas sa halaga at gamit nito."
+    }
+  }
+}

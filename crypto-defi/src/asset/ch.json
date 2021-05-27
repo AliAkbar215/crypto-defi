@@ -1,0 +1,152 @@
+{
+  "translation": {
+    "wallet": {
+      "connect": "连接您的Metamask连接后，您将有机会进行存款（重新加载此页面）。",
+      "yourCurent": "您当前的每日利润:",
+      "basicPr": "基本利润",
+      "Availaiblewith": "可用的提款余额",
+      "RequestWithdrawn": "要求撤回",
+      "WITHDRAW": "提取",
+      "TotalInvested": "总投资:",
+      "NumberofDeposit": "存款数量",
+      "TotalEarned": "总收入",
+      "TotalWIthdrawn": "提取总额",
+      "DirectReferral": "直接转介",
+      "Teammembers": "团队成员",
+      "ReferralRewards": "推荐奖励:"
+    },
+    "level": {
+      "unilevelbouns": "UniLevel奖金:",
+      "0": "1级:",
+      "1": "2级:",
+      "2": "3级:",
+      "3": "4级:",
+      "4": "5级:",
+      "5": "6级:",
+      "6": "7级:",
+      "7": "8级:",
+      "8": "9级:",
+      "9": "10级:",
+      "10": "等级11:",
+      "11": "等级12:",
+      "12:": "13级:",
+      "13": "第14级:",
+      "14": "15级:"
+    },
+    "header": {
+      "edrmint": "CD薄荷糖",
+      "edrstaking": "CD放样",
+      "edrsaving": "CD节省",
+      "edrfarm": "CD农场",
+      "edrgovernance": "CD治理",
+      "edrTokeninfo": "CD令牌信息"
+    },
+    "designation": {
+      "name": "您的指定",
+      "designation": "Participant"
+    },
+    "Referrer": {
+      "reffer": "推荐人",
+      "referralbonus": "推荐奖金"
+    },
+    "dailyprofilt": {
+      "dailyprofit": "每日利润",
+      "dailyIncome": "每日收入"
+    },
+    "copy": {
+      "copylink": "邀请链接"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "组织统计"
+    },
+    "statistics": {
+      "Statistics": "统计数据",
+      "statics": "钱包统计",
+      "name": "爱丁那",
+      "statistics": "统计数据",
+      "balance": "平衡",
+      "balace": "您的余额",
+      "mintAmount": "薄荷金额",
+      "totalNumberofPartners": "合伙人总数",
+      "TotalCommunityofPartners": "合作伙伴总数",
+      "Systempartnershipbouns": "系统合作伙伴",
+      "Deposit Time": "入金时间",
+      "DailyPoolTimeCountDown": "每日泳池倒计时",
+      "RANK1": "排名1",
+      "RANK2": "排名2",
+      "RANK3": "排名3",
+      "RANK4": "排名4",
+      "RANK5": "排名5",
+      "butonmint": "薄荷",
+      "one:": "1级"
+    },
+    "copy": {
+      "copylink": "邀请链接",
+      "copys": "复制"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "组织统计",
+      "Personalinv": "个人邀请合作伙伴"
+    },
+    "homepage": {
+      "logo": "电子化的第纳尔",
+      "ABOUTEDR": "关于CD",
+      "EDRPROJECTS": "CD项目",
+      "CDEFIGOALS": "CD DEFI目标",
+      "CONTACT": "接触",
+      "Dashboard": "登录",
+      "welcome": "欢迎使用CD分散财务应用程式",
+      "crypto-defi-Multi-Chain": "crypto-defi多链去中心化金融应用",
+      "p1": "crypto-defi（“ CDEFI”）是一种基于算法的货币市场系统，旨在将完整的基于分散式金融的借贷系统引入多链系统。 CDEFI与其他货币市场协议的不同之处在于，它可以使用向市场提供的抵押品来借贷其他资产，还可以使用保护协议的过度抵押品来铸造合成的稳定币。这些合成稳定币没有一篮子法定货币的支持，而是一篮子加密货币的支持。",
+      "p2": "CDEFI使用户可以通过向网络提供抵押品来利用他们的令牌，抵押品可以通过抵押超额抵押的加密货币来借用。这就创造了一个安全的借贷环境，在该环境中，贷方获得了按块支付的年复利（APY），而借方则对借入的加密货币支付利息。这些利率由协议以曲线收益率设置，其中利率根据特定市场（例如比特币）的需求自动进行。",
+      "getstarted": "开始使用",
+      "abstract": "摘要：CDToken（“ CDEFI”）",
+      "p3": "多链分散式金融应用",
+      "p4": "CDToken（“ CDEFI”）是一种基于算法的货币市场系统，旨在将完整的基于分散式金融的借贷系统引入多链系统。",
+      "p5": "CDEFI使用户可以通过向网络提供抵押品来利用他们的令牌，抵押品可以通过抵押超额抵押的加密货币来借用。",
+      "multichaindapp": "多链Dapp",
+      "p6": "网络业务历史上的第一次",
+      "prog1": "币安智能链计划",
+      "span55%": "55％",
+      "prog2": "Tron区块链",
+      "span23%": "23%",
+      "prog2": "以太坊区块链",
+      "span23%": "22%",
+      "edrmint": "CD薄荷糖",
+      "edrmintp1": "CDMint是Binance智能链程序和Binance网络的数字资产。",
+      "network": "网络利益",
+      "networkp1": "加密抵押已成为赚取资本回报的一种常见方式。",
+      "liquidy": "CD流动资金农场",
+      "liquidyp1": "BNB，BTT，JST，WIN，USDT，BUSD预计将支持农业。",
+      "governance": "CD治理",
+      "governancep1": "CD DeFi协议合同及所有更改必须通过治理进行。",
+      "dividends": "埃迪纳尔股息",
+      "previous": "以前的公司和我的任务",
+      "march": "2021年3月",
+      "marp": "CD将推出满足CDEFI独立生态系统需求的产品，以补充数字市场中的所有需求。",
+      "may": "2021年5月",
+      "mayp": "放样仅适用于位于下行保护区的CD.CD可以每天撤回，但一旦撤回即可再次放样",
+      "edinargovernance": "电子政务治理",
+      "goverp1": "使用放样使CDEFI开发，治理和节点安全性民主化。",
+      "june": "2021年6月",
+      "edrlprewards": "CD LP奖励",
+      "edrp1": "预计随着CDEFI令牌使用的复杂性增加和使用范围的扩大，其价值将不断增长。",
+      "buildapplication": "构建可在多链区块链上为放贷者，借款人和交易者提供最灵活的去中心化金融协议的应用程序",
+      "financeapplication": "多链分散式金融应用",
+      "hellow": "问好",
+      "hellowp1": "如果您有开发CD社区的计划，请分享详细信息。",
+      "yourName": "你的名字",
+      "youemail": "你的邮件",
+      "message": "写您的留言",
+      "contactwithUs": "联系我们",
+      "Sharedetails": "分享详细资料",
+      "contacttelegram": "联系电报",
+      "CDEFIofficial": "@CDEFIofficial",
+      "emil": "hello@CDEFI.io",
+      "EDinar": "电子丁那",
+      "MultiChain": "多链",
+      "crypto-defiMulti-Chain": "分散财务申请",
+      "junep": "通过开发和构造我们的产品，我们将扩大CDEFI令牌的使用，这将确保其价值和实用性的增加。"
+    }
+  }
+}

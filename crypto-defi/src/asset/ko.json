@@ -1,0 +1,152 @@
+{
+  "translation": {
+    "wallet": {
+      "WalletSTATISTICS": "지갑 통계",
+      "connect": "메타 마스크와 연결 연결 후 입금 할 수 있습니다 (이 페이지를 새로 고침).",
+      "yourCurent": "귀하의 현재 일일 수익:",
+      "basicPr": "기본 이익",
+      "Availaiblewith": "사용 가능한 인출 잔액",
+      "RequestWithdrawn": "철회 요청",
+      "WITHDRAW": "빼다",
+      "TotalInvested": "총 투자 :",
+      "NumberofDeposit": "입금액",
+      "TotalEarned": "총 획득",
+      "TotalWIthdrawn": "총 WIthdrawn",
+      "DirectReferral": "직접 추천",
+      "Teammembers": "팀 멤버",
+      "ReferralRewards": "추천 보상 :"
+    },
+    "level": {
+      "unilevelbouns": "UniLevel 보너스 :",
+      "0": "레벨 1:",
+      "1": "2 단계:",
+      "2": "레벨 3:",
+      "3": "레벨 4:",
+      "4": "레벨 5:",
+      "5": "레벨 6:",
+      "6": "레벨 7:",
+      "7": "레벨 8:",
+      "8": "레벨 9:",
+      "9": "레벨 10:",
+      "10": "레벨 11:",
+      "11": "레벨 12:",
+      "12": "레벨 13:",
+      "13": "레벨 14:",
+      "14": "레벨 15:"
+    },
+    "header": {
+      "edrmint": "EDR 민트",
+      "edrstaking": "EDR 스테이 킹",
+      "edrsaving": "EDR 절약",
+      "edrfarm": "EDR 농장",
+      "edrgovernance": "EDR 거버넌스",
+      "edrTokeninfo": "EDR 토큰 정보"
+    },
+    "designation": {
+      "name": "귀하의 지정",
+      "designation": "참가자"
+    },
+    "Referrer": {
+      "reffer": "추천인",
+      "referralbonus": "추천 보너스"
+    },
+    "dailyprofilt": {
+      "dailyprofit": "일일 이익",
+      "dailyIncome": "일일 소득"
+    },
+    "copy": {
+      "copylink": "초대 링크"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "조직 통계"
+    },
+    "copy": {
+      "copylink": "초대 링크",
+      "copys": "부"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "조직 통계",
+      "Personalinv": "개인 초대 파트너"
+    },
+    "statistics": {
+      "statics": "지갑 통계",
+      "Statistics": "통계",
+      "name": "CD",
+      "statistics": "statistics",
+      "balance": "밸런스",
+      "balace": "귀하의 잔액",
+      "mintAmount": "민트 금액",
+      "totalNumberofPartners": "총 파트너 수",
+      "TotalCommunityofPartners": "전체 파트너 커뮤니티",
+      "Systempartnershipbouns": "시스템 파트너십 Bouns",
+      "Deposit Time": "입금 시간",
+      "DailyPoolTimeCountDown": "일일 풀 시간 카운트 다운",
+      "RANK1": "랭크 1",
+      "RANK2": "랭크 2",
+      "RANK3": "랭크 3",
+      "RANK4": "랭크 4",
+      "RANK5": "랭크 5",
+      "butonmint": "민트"
+    },
+    "homepage": {
+      "logo": "crypto-defi DeFi",
+      "ABOUTEDR": "CD 정보",
+      "EDRPROJECTS": "CD 프로젝트",
+      "CDEFIGOALS": "CD DEFI 목표",
+      "CONTACT": "접촉",
+      "Dashboard": "로그인",
+      "welcome": "CD 탈 중앙화 금융 앱에 오신 것을 환영합니다",
+      "crypto-defiMulti-Chain": "crypto-defiMulti-Chain 분산 형 금융 애플리케이션",
+      "p1": "crypto-defi (“crypto-defi)는 완전한 분산 형 금융 기반 대출 및 신용 시스템을 멀티 체인 시스템에 도입하도록 설계된 알고리즘 기반 머니 마켓 시스템입니다. 다른 머니 마켓 프로토콜과 CDEFI의 차이점은 시장에 제공된 담보를 다른 자산을 빌릴뿐만 아니라 프로토콜을 보호하는 과잉 담보 포지션으로 합성 스 테이블 코인을 발행하는 데 사용할 수 있다는 것입니다. 이 합성 스 테이블 코인은 명목 화폐 바구니가 아니라 암호 화폐 바구니로 뒷받침됩니다.",
+      "p2": "CDEFI는 사용자가 초과 담보 암호 화폐를 약속하여 빌릴 수있는 담보를 네트워크에 제공하여 토큰을 활용할 수 있도록합니다. 이를 통해 대출자는 블록 당 연간 복리 이율 (APY)을 받고 차용자는 빌린 암호 화폐에이자를 지불하는 안전한 대출 환경을 조성합니다. 이 금리는 프로토콜에 의해 곡선 수익률로 설정되며, 비트 코인과 같은 특정 시장의 수요에 따라 금리가 자동화됩니다.",
+      "getstarted": "시작하다",
+      "abstract": "초록 : CDToken (crypto-defi)",
+      "p3": "다중 체인 분산 형 금융 애플리케이션",
+      "p4": "CDToken (crypto-defi)은 완전한 분산 형 금융 기반 대출 및 신용 시스템을 멀티 체인 시스템에 도입하도록 설계된 알고리즘 기반 머니 마켓 시스템입니다.",
+      "p5": "CDEFI는 사용자가 초과 담보 암호 화폐를 약속하여 빌릴 수있는 담보를 네트워크에 제공하여 토큰을 활용할 수 있도록합니다.",
+      "multichaindapp": "멀티 체인 Dapp",
+      "p6": "네트워크 사업 역사상 처음",
+      "prog1": "바이 낸스 스마트 체인 프로그램",
+      "span55%": "55%",
+      "prog2": "트론 블록 체인",
+      "span23%": "23%",
+      "prog2": "이더 리움 블록 체인",
+      "span23%": "22 %",
+      "edrmint": "EDR 민트",
+      "edrmintp1": "EDRMint는 Binance 스마트 체인 프로그램이자 Binance 네트워크의 디지털 자산입니다.",
+      "network": "네트워크 스테이크",
+      "networkp1": "암호 화폐 스테이 킹은 자본 수익을 얻는 일반적인 방법이됩니다.",
+      "liquidy": "EDR 유동성 농장",
+      "liquidyp1": "BNB, BTT, JST, WIN, USDT, BUSD는 Farming에 지원 될 예정입니다.",
+      "governance": "EDR 거버넌스",
+      "governancep1": "EDR DeFi 프로토콜 계약 및 모든 변경은 거버넌스를 통해 이루어져야합니다.",
+      "dividends": "CD 배당금",
+      "previous": "이전 회사 및 내 작업",
+      "march": "2021 년 3 월",
+      "marp": "CD는 CDEFI 독립 생태계를 만드는 디지털 시장의 모든 요구를 보완하는 제품을 출시 할 것입니다.",
+      "may": "2021 년 5 월",
+      "mayp": "스테이 킹은 하방 보호에 배치 된 EDR에 대해서만 가능하며 EDR은 매일 인출 될 수 있지만 인출되면 다시 스테이 킹 할 수 있습니다.",
+      "CDgovernance": "CD 거버넌스",
+      "goverp1": "스테이 킹을 사용하여 CDEFI 개발, 거버넌스 및 노드 보안을 민주화합니다.",
+      "june": "2021 년 6 월",
+      "edrlprewards": "EDR LP 보상",
+      "edrp1": "CDEFI 토큰 사용의 복잡성과 확산이 증가함에 따라 그 가치는 증가 할 것으로 예상됩니다.",
+      "buildapplication": "다중 체인 블록 체인에서 가장 유연한 분산 형 금융 프로토콜을 사용하여 대출자, 차용자 및 거래자에게 권한을 부여하는 애플리케이션 구축",
+      "financeapplication": "다중 체인 분산 형 금융 애플리케이션",
+      "hellow": "인사 해",
+      "hellowp1": "EDR 커뮤니티를 개발할 계획이있는 경우 세부 정보를 공유하십시오.",
+      "yourName": "당신의 이름",
+      "youemail": "귀하의 이메일",
+      "message": "메시지 작성",
+      "contactwithUs": "우리와 접촉",
+      "Sharedetails": "세부 정보 공유",
+      "contacttelegram": "텔레 그램에 문의",
+      "CDEFIofficial": "안녕하세요.",
+      "emil": "hello@CDEFI.io",
+      "CD": "crypto-defi",
+      "MultiChain": "멀티 체인",
+      "crypto-defiMulti-Chain": "Decentralized Financial Application",
+      "junep": "제품을 개발하고 구조화함으로써 CDEFI 토큰의 사용을 확대하여 그 가치와 유용성을 높일 것입니다."
+    }
+  }
+}

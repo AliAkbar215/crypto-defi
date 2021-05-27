@@ -1,0 +1,149 @@
+{
+  "translation": {
+    "wallet": {
+      "connect": "Kết nối với metamask của bạn Sau khi kết nối, bạn sẽ có cơ hội nạp tiền (tải lại trang này).",
+      "yourCurent": "Lợi nhuận hàng ngày hiện tại của bạn:",
+      "basicPr": "Lợi nhuận cơ bản",
+      "Availaiblewith": "Số dư có thể rút được",
+      "RequestWithdrawn": "Yêu cầu rút tiền",
+      "WITHDRAW": "RÚT",
+      "TotalInvested": "Tổng đầu tư:",
+      "NumberofDeposit": "Số tiền gửi",
+      "TotalEarned": "Tổng số tiền kiếm được",
+      "TotalWIthdrawn": "Tổng số WIthdrawn",
+      "DirectReferral": "Giới thiệu trực tiếp",
+      "Teammembers": "Thành viên trong nhóm",
+      "ReferralRewards": "Phần thưởng giới thiệu:"
+    },
+    "level": {
+      "unilevelbouns": "Tiền thưởng UniLevel:",
+      "0": "Cấp độ 1:",
+      "1": "Cấp độ 2:",
+      "2": "Cấp 3:",
+      "3": "Cấp 4:",
+      "4": "Cấp 5:",
+      "5": "Cấp 6:",
+      "6": "Cấp độ 7:",
+      "7": "Cấp 8:",
+      "8": "Cấp 9:",
+      "9": "Cấp 10:",
+      "10": "Cấp 11:",
+      "11": "Cấp 12:",
+      "12": "Cấp độ13:",
+      "13": "Cấp độ14:",
+      "14": "Cấp độ15:"
+    },
+    "header": {
+      "edrmint": "EDR Mint",
+      "edrstaking": "Đặt cược EDR",
+      "edrsaving": "Penghematan EDR",
+      "edrfarm": "Trang trại EDR",
+      "edrgovernance": "Tata Kelola EDR",
+      "edrTokeninfo": "Mã thông tin EDR"
+    },
+    "designation": {
+      "name": "Penunjukan Anda",
+      "designation": "Peserta"
+    },
+    "Referrer": {
+      "reffer": "Perujuk",
+      "referralbonus": "tiền thưởng rujukan"
+    },
+    "dailyprofilt": {
+      "dailyprofit": "Keuntungan Harian",
+      "dailyIncome": "Penghasilan Harian"
+    },
+    "copy": {
+      "copylink": "Tautan Undangan"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "Statistik Organisasi"
+    },
+    "statistics": {
+      "statics": "Cüzdan İSTATİSTİKLERİ",
+      "Statistics": "Statistik",
+      "name": "EDINAR",
+      "statistics": "thống kê",
+      "balance": "Keseimbangan",
+      "balace": "keseimbanganmu",
+      "mintAmount": "Jumlah bạc hà",
+      "totalNumberofPartners": "Tổng số Mitra của Jumlah",
+      "TotalCommunityofPartners": "Tổng số Komunitas Mitra",
+      "Systempartnershipbouns": "Dewan Kemitraan Sistem",
+      "Deposit Time": "Tiền gửi Waktu",
+      "DailyPoolTimeCountDown": "Hitung Mundur Waktu Renang Harian",
+      "RANK1": "PERINGKAT 1",
+      "RANK2": "PERINGKAT 2",
+      "RANK3": "PERINGKAT 3",
+      "RANK4": "PERINGKAT 4",
+      "RANK5": "PERINGKAT 5",
+      "butonmint": "cây bạc hà"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "Thống kê tổ chức",
+      "Personalinv": "Đối tác được mời cá nhân"
+    },
+    "copy": {
+      "copylink": "Liên kết lời mời",
+      "copys": "sao chép"
+    },
+    "homepage": {
+      "logo": "crypto-defi DeFi",
+      "ABOUTEDR": "TENTANG EDR",
+      "EDRPROJECTS": "PROYEK EDR",
+      "CDEFIGOALS": "TUJUAN EDR DEFI",
+      "CONTACT": "KONTAK",
+      "Dashboard": "GABUNG",
+      "LANGU": "BAHASA",
+      "welcome": "SELAMAT DATANG DI EDINAR DESENTRALISASI APLIKASI",
+      "crypto-defiMulti-Chain": "Aplikasi crypto-defiMulti-Chain",
+      "DecentralizedFinancial": "Keuangan Terdesentralisasi",
+      "p1": "crypto-defi (“CDEFI”) adalah sistem pasar uang berbasis algoritme yang dirancang unauk membawa sistem pinjaman dan kredit berbasis keuangan terdesentralisasi lengkap ke Sistem Multi Chain. Perbedaan CDEFI dari protokol pasar uang lainnya adalah kemampuan unauk menggunakan agunan yang dipasok ke pasar tidak hanya unauk meminjam aset lain tetapi juga unauk mencetak koin ổn định sintetis dengan posisi yang crossunkan secara berlebihan yang. Koin Stable sintetis ini tidak didukung oleh sekeranjang mata uang fiat tetapi oleh sekeranjang tiền điện tử.",
+      "p2": "CDEFI memungkinkan pengguna unauk menggunakan token onlyka dengan memberikan jaminan ke jaringan yang dapat dipinjam dengan menjaminkan mata uang kripto dengan jaminan yang berlebihan. Ini menciptakan lingkungan pinjaman yang aman di mana pemberi pinjaman menerima tingkat bunga majemuk tahunan (APY) yang dibayarkan per blok, sementara peminjam membayar bunga atas mata uang kripto yang dipinjam. Suku bunga ini ditetapkan oleh protokol dalam kurva hasil, di mana suku bunga diotomatiskan berdasarkan permintaan pasar tertentu, seperti Bitcoin.",
+      "getstarted": "MEMULAI",
+      "abstract": "Tóm tắt: EDinarToken ('CDEFI')",
+      "p3": "Aplikasi Keuangan Terdesentralisasi Multi-rantai",
+      "p4": "EDinarToken (“CDEFI”) adalah sistem pasar uang berbasis algoritme yang dirancang unauk menghadirkan sistem pinjaman dan kredit berbasis keuangan terdesentralisasi lengkap ke Sistem Multi Chain.",
+      "p5": "CDEFI memungkinkan pengguna unauk menggunakan token onlyka dengan memberikan jaminan ke jaringan yang dapat dipinjam dengan menjaminkan mata uang kripto dengan jaminan yang berlebihan.",
+      "multichaindapp": "Dapp đa chuỗi",
+      "p6": "Pertama Kali dalam Sejarah Bisnis Jaringan",
+      "prog1": "Chương trình Rantai Cerdas Binance",
+      "span55%": "55%",
+      "prog2": "Blockchain Tron",
+      "span23%": "23%",
+      "prog3": "Ethereum Blockchain",
+      "span22%": "22%",
+      "edrmint": "EDR MINT",
+      "edrmintp1": "EDRMint adalah program rantai pintar Binance dan aset digital dari jaringan binance.",
+      "network": "Taruhan JARINGAN",
+      "networkp1": "Taruhan Crypto menjadi cara umum unuk mendapatkan pengembalian phương thức.",
+      "liquidy": "EDR TRANG TRẠI THANH LÝ",
+      "liquidyp1": "BNB, BTT, JST, WIN, USDT, BUSD diharapkan didukung unuk Farming.",
+      "governance": "QUẢN TRỊ EDR",
+      "governancep1": "Kontrak EDR DeFi Protocol & semua perubahan harus dilakukan melalui tata kelola.",
+      "dividends": "Dividen EDinar",
+      "previous": "Perusahaan sebelumnya dan tugas saya",
+      "march": "2021 Maret",
+      "marp": "EDinar akan meluncurkan produk unauk melengkapi semua kebutuhan dalam pasar digital yang menciptakan Ekosistem Independen CDEFI.",
+      "may": "2021 Mungkin",
+      "mayp": "Nhược điểm của hanya akan tersedia unauk EDR yang ditempatkan dalam perlindungan. EDR dapat ditarik setiap hari tetapi setelah ditarik, dapat di-staking lagi",
+      "edinargovernance": "Tata Kelola EDinar",
+      "goverp1": "Untuk mendemokratisasi pengembangan CDEFI, tata kelola, dan keamanan node menggunakan staking.",
+      "june": "2021 Juni",
+      "edrlprewards": "Hadiah EDR LP",
+      "edrp1": "Diharapkan dengan bertambahnya kompleksitas dan penyebaran penggunaan token CDEFI, nilainya akan tumbuh.",
+      "buildapplication": "Bangun aplikasi yang memberdayakan pemberi pinjaman, peminjam, dan pedagang dengan protokol keuangan terdesentralisasi yang paling fleksibel pada rantai blok multi rantai",
+      "financeapplication": "Aplikasi Keuangan Terdesentralisasi Multi-rantai",
+      "hellow": "Vầng hào quang Katakan",
+      "hellowp1": "Jika Anda memiliki rencana unauk mengembangkan komunitas EDR, silakan bagikan detailnya.",
+      "yourName": "namamu",
+      "youemail": "email mu",
+      "message": "Tulis Pesan Anda",
+      "contactwithUs": "Terhubung dengan kami",
+      "Sharedetails": "Bagikan detailnya",
+      "contacttelegram": "Hubungi Telegram",
+      "CDEFIofficial": "@CDEFIofficial",
+      "emil": "hello@CDEFI.io"
+    }
+  }
+}

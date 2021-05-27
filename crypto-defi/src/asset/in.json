@@ -1,0 +1,149 @@
+{
+  "translation": {
+    "wallet": {
+      "connect": "Connect with your metamask After connection you will get opportunity to make deposit (reload this page).",
+      "yourCurent": "Your Current Daily profit:",
+      "basicPr": "Basic-profit",
+      "Availaiblewith": "Availaible Withdrawn Balance",
+      "RequestWithdrawn": "Request Withdrawn",
+      "WITHDRAW": "WITHDRAW",
+      "TotalInvested": "Total Invested:",
+      "NumberofDeposit": "Number of Deposit",
+      "TotalEarned": "Total Earned",
+      "TotalWIthdrawn": "Total WIthdrawn",
+      "DirectReferral": "Direct Referral",
+      "Teammembers": "Team Members",
+      "ReferralRewards": "Referral Rewards:"
+    },
+    "level": {
+      "unilevelbouns": "UniLevel Bouns:",
+      "0": "Level1:",
+      "1": "Level2:",
+      "2": "Level3:",
+      "3": "Level4:",
+      "4": "Level5:",
+      "5": "Level6:",
+      "6": "Level7:",
+      "7": "Level8:",
+      "8": "Level9:",
+      "9": "Level10:",
+      "10": "Level11:",
+      "11": "Level12:",
+      "12": "Level13:",
+      "13": "Level14:",
+      "14": "Level15:"
+    },
+    "header": {
+      "edrmint": "CD Mint",
+      "edrstaking": "CD Staking",
+      "edrsaving": "Penghematan CD",
+      "edrfarm": "CD Farm",
+      "edrgovernance": "Tata Kelola CD",
+      "edrTokeninfo": "Info Token CD"
+    },
+    "designation": {
+      "name": "Penunjukan Anda",
+      "designation": "Peserta"
+    },
+    "Referrer": {
+      "reffer": "Perujuk",
+      "referralbonus": "bonus rujukan"
+    },
+    "dailyprofilt": {
+      "dailyprofit": "Keuntungan Harian",
+      "dailyIncome": "Penghasilan Harian"
+    },
+    "copy": {
+      "copylink": "Tautan Undangan"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "Statistik Organisasi"
+    },
+    "statistics": {
+      "statics": "STATISTIK Dompet",
+      "Statistics": "Statistik",
+      "name": "EDINAR",
+      "statistics": "statistik",
+      "balance": "Keseimbangan",
+      "balace": "keseimbanganmu",
+      "mintAmount": "Jumlah mint",
+      "totalNumberofPartners": "Jumlah Total Mitra",
+      "TotalCommunityofPartners": "Total Komunitas Mitra",
+      "Systempartnershipbouns": "Dewan Kemitraan Sistem",
+      "Deposit Time": "Waktu Deposit",
+      "DailyPoolTimeCountDown": "Hitung Mundur Waktu Renang Harian",
+      "RANK1": "PERINGKAT 1",
+      "RANK2": "PERINGKAT 2",
+      "RANK3": "PERINGKAT 3",
+      "RANK4": "PERINGKAT 4",
+      "RANK5": "PERINGKAT 5",
+      "butonmint": "mint"
+    },
+    "OrganisationStatistics": {
+      "Organisation": "Organisation Statistics",
+      "Personalinv": "Personal Invited Partners"
+    },
+    "copy": {
+      "copylink": "Invitation Link",
+      "copys": "copy"
+    },
+    "homepage": {
+      "logo": "crypto-DeFi",
+      "ABOUTEDR": "TENTANG CD",
+      "EDRPROJECTS": "PROYEK CD",
+      "CDEFIGOALS": "TUJUAN CD DEFI",
+      "CONTACT": "KONTAK",
+      "Dashboard": "GABUNG",
+      "LANGU": "BAHASA",
+      "welcome": "SELAMAT DATANG DI CD DESENTRALISASI APLIKASI",
+      "crypto-defiMulti-Chain": "Aplikasi crypto-defiMulti-Chain",
+      "DecentralizedFinancial": "Keuangan Terdesentralisasi",
+      "p1": "crypto-defi (“CDEFI”) adalah sistem pasar uang berbasis algoritme yang dirancang untuk membawa sistem pinjaman dan kredit berbasis keuangan terdesentralisasi lengkap ke Sistem Multi Chain. Perbedaan CDEFI dari protokol pasar uang lainnya adalah kemampuan untuk menggunakan agunan yang dipasok ke pasar tidak hanya untuk meminjam aset lain tetapi juga untuk mencetak koin stabil sintetis dengan posisi yang diagunkan secara berlebihan yang melindungi protokol. Koin stabil sintetis ini tidak didukung oleh sekeranjang mata uang fiat tetapi oleh sekeranjang cryptocurrency.",
+      "p2": "CDEFI memungkinkan pengguna untuk menggunakan token mereka dengan memberikan jaminan ke jaringan yang dapat dipinjam dengan menjaminkan mata uang kripto dengan jaminan yang berlebihan. Ini menciptakan lingkungan pinjaman yang aman di mana pemberi pinjaman menerima tingkat bunga majemuk tahunan (APY) yang dibayarkan per blok, sementara peminjam membayar bunga atas mata uang kripto yang dipinjam. Suku bunga ini ditetapkan oleh protokol dalam kurva hasil, di mana suku bunga diotomatiskan berdasarkan permintaan pasar tertentu, seperti Bitcoin.",
+      "getstarted": "MEMULAI",
+      "abstract": "Abstrak: CDToken('CDEFI')",
+      "p3": "Aplikasi Keuangan Terdesentralisasi Multi-rantai",
+      "p4": "CDToken (“CDEFI”) adalah sistem pasar uang berbasis algoritme yang dirancang untuk menghadirkan sistem pinjaman dan kredit berbasis keuangan terdesentralisasi lengkap ke Sistem Multi Chain.",
+      "p5": "CDEFI memungkinkan pengguna untuk menggunakan token mereka dengan memberikan jaminan ke jaringan yang dapat dipinjam dengan menjaminkan mata uang kripto dengan jaminan yang berlebihan.",
+      "multichaindapp": "Multi-Chain Dapp",
+      "p6": "Pertama Kali dalam Sejarah Bisnis Jaringan",
+      "prog1": "Program Rantai Cerdas Binance",
+      "span55%": "55%",
+      "prog2": "Tron Blockchain",
+      "span23%": "23%",
+      "prog3": "Ethereum Blockchain",
+      "span22%": "22%",
+      "edrmint": "CD MINT",
+      "edrmintp1": "CDMint adalah program rantai pintar Binance dan aset digital dari jaringan binance.",
+      "network": "Taruhan JARINGAN",
+      "networkp1": "Taruhan Crypto menjadi cara umum untuk mendapatkan pengembalian modal.",
+      "liquidy": "CD LIQUIDITY FARM ",
+      "liquidyp1": "BNB, BTT, JST, WIN, USDT, BUSD diharapkan didukung untuk Farming.",
+      "governance": "CD GOVERNANCE",
+      "governancep1": "Kontrak CD DeFi Protocol & semua perubahan harus dilakukan melalui tata kelola.",
+      "dividends": "Dividen EDinar",
+      "previous": "Perusahaan sebelumnya dan tugas saya",
+      "march": "2021 Maret",
+      "marp": "EDinar akan meluncurkan produk untuk melengkapi semua kebutuhan dalam pasar digital yang menciptakan Ekosistem Independen CDEFI.",
+      "may": "2021 Mungkin",
+      "mayp": "Staking hanya akan tersedia untuk CD yang ditempatkan dalam perlindungan downside. CD dapat ditarik setiap hari tetapi setelah ditarik, dapat di-staking lagi",
+      "edinargovernance": "Tata Kelola EDinar",
+      "goverp1": "Untuk mendemokratisasi pengembangan CDEFI, tata kelola, dan keamanan node menggunakan staking.",
+      "june": "2021 Juni",
+      "edrlprewards": "Hadiah CD LP",
+      "edrp1": "Diharapkan dengan bertambahnya kompleksitas dan penyebaran penggunaan token CDEFI, nilainya akan tumbuh.",
+      "buildapplication": "Bangun aplikasi yang memberdayakan pemberi pinjaman, peminjam, dan pedagang dengan protokol keuangan terdesentralisasi yang paling fleksibel pada rantai blok multi rantai",
+      "financeapplication": "Aplikasi Keuangan Terdesentralisasi Multi-rantai",
+      "hellow": "Katakan halo",
+      "hellowp1": "Jika Anda memiliki rencana untuk mengembangkan komunitas CD, silakan bagikan detailnya.",
+      "yourName": "namamu",
+      "youemail": "email mu",
+      "message": "Tulis Pesan Anda",
+      "contactwithUs": "Terhubung dengan kami",
+      "Sharedetails": "Bagikan detailnya",
+      "contacttelegram": "Hubungi Telegram",
+      "CDEFIofficial": "@CDEFIofficial",
+      "emil": "hello@CDEFI"
+    }
+  }
+}

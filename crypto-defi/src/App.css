@@ -1,0 +1,169 @@
+body{
+  background-color: #d7eaf1 !important;
+}
+/* 
+.mintContainer input {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+} */
+
+.thirdCardContainer input{
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+.thirdCardContainer .MuiFormControlLabel-root{
+  margin-right: 0px !important;
+}
+
+.btn {
+  min-width: 50%;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  border-radius: 15px;
+  cursor: default;
+  color:white;
+  background-color: #314582;
+  box-shadow: 4.6875px 4.6875px 9.375px rgb(174 174 192 / 40%), -3.125px -3.125px 9.375px #fff;
+padding: 24px;
+border: 0px !important;
+}
+
+/* ///////////////////////////////////Time style /////////////// */
+.clock-day:before {
+  content: var(--timer-day);
+  color: white;
+}
+.clock-hours:before {
+  content: var(--timer-hours);
+}
+.clock-minutes:before {
+  content: var(--timer-minutes);
+}
+.clock-seconds:before {
+  content: var(--timer-seconds);
+}
+.Timerbody {
+  background: linear-gradient(45deg, #1870ed 0, #f18f88 100%);
+  font-family: 'Montserrat', 'sans-serif';
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clock-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #A8936C;
+  border-radius: 5px;
+  padding: 60px 96px;
+  box-shadow: 1px 1px 5px rgba(24, 112, 237, .15), 0 15px 90px 30px rgba(241, 143, 136, .25);
+  display: flex;
+}
+.clock-col {
+  text-align: center;
+  margin-right: 40px;
+  margin-left: 40px;
+  min-width: 90px;
+  position: relative;
+  color: white;
+}
+.clock-col:not(:last-child):before, .clock-col:not(:last-child):after {
+  content: "";
+  background-color: rgba(255, 255, 255, .3);
+  height: 5px;
+  width: 5px;
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+  right: -42px;
+}
+.clock-col:not(:last-child):before {
+  top: 35%;
+}
+.clock-col:not(:last-child):after {
+  top: 50%;
+}
+.clock-timer{
+  font-size: 2rem;
+}
+.clock-timer:before {
+  color: #fff;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+.clock-label {
+  color: rgba(255, 255, 255, 0.575);
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  margin-top: 10px; 
+}
+@media (max-width: 825px) {
+  .clock-container {
+    flex-direction: column;
+    padding-top: 40px;
+    padding-bottom: 40px;
+ }
+  .clock-col + .clock-col {
+    margin-top: 20px;
+ }
+  .clock-col:before, .clock-col:after {
+    display: none !important;
+ }
+}
+
+.Modal-module_modal__FqeFw{
+  background-color: transparent !important;
+  /* box-shadow */
+box-shadow: none !important;
+}
+/* Style The Dropdown Button */
+.dropbtn {
+  /* background-color: #4CAF50; */
+  /* color: white; */
+  /* padding: 16px; */
+  /* font-size: 16px; */
+  /* border: none; */
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.9rem !important;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 10rem;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  /* text-align: center; */
+  /* align-items: center; */
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  /* background-color: #3e8e41; */
+}
